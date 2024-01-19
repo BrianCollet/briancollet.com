@@ -16,7 +16,7 @@ export const companies = [
     alt: 'Microsoft logo',
     role: 'Azure Cloud Support Engineer (Logic Apps)',
     skills: ['Azure', 'Logic Apps', 'Terraform', 'Azure Resource Manager (ARM)', 'Jenkins', 'Storage', 'Scripting'],
-    period: '2022 - Present',
+    period: '2022 - 2024',
     logo: '/assets/images/logos/microsoft.png'
   },
   {
@@ -208,7 +208,12 @@ export const featuredArticles = [
 
 export const featuredProjects = [
   {
-    link: 'https://github.com/BrianCollet/briancollet.com/',
+    link: 'https://github.com/BrianCollet/onboard-automator',
+    text: 'Onboard Automator',
+    showNewTag: true
+  },
+  {
+    link: 'https://github.com/BrianCollet/briancollet.com',
     text: 'BrianCollet.com',
     showNewTag: false
   }
