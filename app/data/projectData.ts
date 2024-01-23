@@ -5,7 +5,7 @@ export const projectsList = [
     blurHash: 'L4ADc400P*Zi4Tu1y;Qo00pH#YXl',
     site: 'https://github.com/BrianCollet/onboard-automator',
     description:
-      'AUTOMATE THE ONBOARDING PROCESS FOR NEW EMPLOYEES USING AZURE.',
+      'AUTOMATE THE ONBOARDING PROCESS FOR NEW EMPLOYEES.',
     techStack: ['Azure', 'Python', 'Github Actions'],
     github: 'https://github.com/BrianCollet/onboard-automator'
   },
